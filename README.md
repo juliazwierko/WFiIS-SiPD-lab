@@ -1,4 +1,4 @@
-ssh -XY ...taurus.fis.agh.edu.pl
+ssh -XY <...>taurus.fis.agh.edu.pl
 -----------------------------------
 whereis matlab
 -----------------------------------
