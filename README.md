@@ -7,11 +7,11 @@ whereis matlab
 
 
 ---------------------------------------
-clc - usuniecie w przestrzenie roboczej
+clc 
 ---
 pwd
 ---
 cd
 ----
-mkdir / mkdir lekcja1
+mkdir 
 -----
