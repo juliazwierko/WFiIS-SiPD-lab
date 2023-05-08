@@ -13,7 +13,5 @@ pwd
 ---
 cd
 ----
-mkdir
+mkdir / mkdir lekcja1
 -----
-
-mkdir lekcja1;
