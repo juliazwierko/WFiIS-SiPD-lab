@@ -20,7 +20,7 @@ limit((2*x^2-11*x+5)/(3*x^2-14*x - 5),x,5)
  
 %-->CALKI
 syms x
-y = sim(2*x)+x^2
+y = sin(2*x)+x^2
 int(y)
   
 %oblicz calke oznaczona 
