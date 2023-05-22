@@ -25,7 +25,7 @@ int(y)
   
 %oblicz calke oznaczona 
 syms x
-y = sin(2x)-x.^3
+y = sin(2*x)-x.^3
 int(y,x,0,2) 
   %0 - 
   %2 - gorna grnaica
