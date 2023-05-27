@@ -12,7 +12,7 @@ x = [1 2 3 4]
 y = [25 0 20 5]
 xlabel('x')
 ylable('y')
-tytle('Wykres')
+title('Wykres')
   
 %b - blue
 %g - green
