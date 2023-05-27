@@ -2,7 +2,7 @@
 %Estymacja 
 %Prawdopodobienstwo 
 
-%binopdf(X, N, P)  -> funkcja gestosci
+%binopdf(X,N,P)  -> funkcja gestosci
 %ch2pdf(X, V)      -> funkcja prawdopodobienstwa rozkaldu dwumianowego
 %binocdf(X,N,P)    -> zwraca prawdopodobienstwo rozkladu dwumianowego  
   
