@@ -20,7 +20,7 @@ perms([1,2,3])
 %     1     2     3
   
 
-%Moda - dana ktora ze znioru pojawia sie najczescie
+%Moda - dana ktora ze zbioru pojawia sie najczescie
 %Mediana - wartosc sriodkowa
 mode(x)
 median(x) 
