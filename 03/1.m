@@ -6,6 +6,13 @@
 %ch2pdf(X, V)
 %binocdf(X,N,P)
   
+%binopdf(X, N, P) - funkcja ge ̨stosci rozkładu dwumianowego. 
+%Zwraca prawdopodobienstwo X sukcesów dla N powtórzen, 
+%N jest liczba ̨ powtórzen ́, P prawdopodobienstwem sukcesu;
+
+%ch2pdf(X, V) - funkcja prawdopodobienstwa rozkładu chi-kwadrat, 
+%gdzie X jest wartos ́cia ̨ zmiennej losowej, V - liczba ̨ swobody;  
+  
 %Zadanie:
 %Prawdopodobienstwo wyprudokowania wadliwej sztuki towaru wynosi 
 %p = 0.05. Wybrano losowo próbę o liczebnosci n - 100. Niech xn 
