@@ -1,6 +1,5 @@
 %Granice i calki 
-%limit(F,x,a) - znajduje granice wyrazenia F w granicach od a do b (a i b - liczba)
-%pomijecie a i b oznacza calke nieoznaczona 
+%limit(F,x,a) - znajduje granice wyrazenia
 %granice calki moga miec wartosc inf, np int*1/^3,x,i,inf)
 %wynik moze miec wartosc nieskonczona, np inf
 %int(y,a,b) - zwraca calke oznaczona dla y, w granicach od a do b
