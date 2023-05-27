@@ -28,9 +28,9 @@ x = [1 1 5 5]; y = [0 2 4 6]
 % ans = 0 1 0 1 
 
 % and & 
-% |
-% ~
-% xor 
+% | (logical or)
+% ~ -> a = ~12 (logical not)
+% xor -> xor(a,b)
 
 
 zmienna = 2 + i
