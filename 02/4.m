@@ -2,10 +2,10 @@
 %Centralne twierdzenie graniczne 
 x = randi(6)
 x = randi(6,1,10000); %liczba losowan od tego miejsca 
-histogram(x,y);
+histogram(x);
 xlabel('wynik'); 
 ylabel('liczba zliczen')
-tytle('Kość sześcienna, 10k powtorzeń')
+title('Kość sześcienna, 10k powtorzeń')
   
  %--------------------------------------------------------
 x = 1:1:10
