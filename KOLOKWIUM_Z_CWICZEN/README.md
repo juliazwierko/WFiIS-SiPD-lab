@@ -1,4 +1,4 @@
-Kolos z statystyki(2023):
+Kolokwium ze statystyki(2023):
 
 1. Opisz zależność między dystrybuantą a funkcja gęstości rozkładu prawdopodobieństwa
 2. Opisz macierz kowariancji
