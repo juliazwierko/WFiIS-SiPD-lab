@@ -9,7 +9,7 @@ disp(["wyswietl zmienna a:", num2str(a)])
 disp(["wyswietl zmienna b:", num2str(b)])
 clear;
 
-%--------------Koniunkcja-------------- 
+%--------------koniunkcja-------------- 
 a = input("Wprowadz wartosc dla zmiennej a ")
 b = input("Wprowadz wartosc dla zmiennej b ")
 if((a~=5) & (b<10))
