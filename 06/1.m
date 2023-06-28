@@ -2,14 +2,14 @@
 syms x
 syms x y z 
 a=sym('4')
-%
+
 
 syms a b 
 a=1 
 b=2
 y=a+b 
 clc
-%
+
 
 A=sym('2');
 B=sym(3);
