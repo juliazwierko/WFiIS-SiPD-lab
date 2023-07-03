@@ -40,7 +40,3 @@ plot(x,y1)
  
 subplot(2,2,2)
 plot(x,y2)
- 
-
-
-
