@@ -20,9 +20,3 @@ T1(1:5, {'Gender', 'Weight'})
       
 T1.Weight(1:5)
      %taki samy efekt, operator kropka
-
-% ???
-T1('Smith',:)
-      %wyswietlone sa wszystkie kolumny
- 
- 
