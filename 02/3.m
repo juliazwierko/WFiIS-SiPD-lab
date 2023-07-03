@@ -8,7 +8,7 @@ k2 = 2
 y1 = x*k1
 y2 = x.^k2
 plot(x,y1, x, y2)
-title('Dwa wykresa)
+title('Dwa wykresa')
 xlabel('x') 
 ylable('y')
 legend('y1','y2) 
