@@ -1,11 +1,11 @@
 %GRAFIKA DWUWYMIAROWA
 x = 0:0.1:10 %zakres od 0 do 10
- y = x 
- plot(x,y) %rysowanie wykresa
+y = x 
+plot(x,y) %rysowanie wykresa
  
 %zmiana kolorow, wykresow mozliwa jest w plot:
 plot(x, y, 'r-') %czerwony wykres
-  plot(x, y, 'r-.') %czerwiny wykres z kropkami 
+plot(x, y, 'r-.') %czerwiny wykres z kropkami 
 %istnieje tabelia roznych waryacje wykresow
 
 x = [1 2 3 4]
