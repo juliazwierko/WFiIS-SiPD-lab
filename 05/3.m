@@ -38,6 +38,3 @@ A .*B
 
 times(A,B)
   %osiadniemy to samo, zamiania dzialanie na slowne wywolanie
- 
-
-
