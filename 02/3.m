@@ -11,5 +11,5 @@ plot(x,y1, x, y2)
 title('Dwa wykresa')
 xlabel('x') 
 ylable('y')
-legend('y1','y2) 
+legend('y1','y2') 
 grid %siatka
