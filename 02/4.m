@@ -11,7 +11,7 @@ title('Kość sześcienna, 10k powtorzeń')
 x = 1:1:10
 y = rand(1,10) %kostka 6-cienna
 bar(x,y) %inne funkcjie
-tytle('Wykres funkcji y(x)');
+title('Wykres funkcji y(x)');
 xlabel('x'); ylabel('y');
 
   
